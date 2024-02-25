@@ -16,12 +16,22 @@ title: LSPD
 
 ## Echipament
 
-**Echipamentul** presupune schimbarea de **haine** în uniforma de polițist, preluarea **armelor**, mai exact un **pistol**, un **pistol radar**, un **tazer** și o **pușcă automată**.
+**Echipamentul** presupune schimbarea de **haine** în uniforma de polițist, preluarea **armelor**, mai exact un **pistol**, un **pistol radar**, un **tazer**, o **pușcă automată** si un **shotgun**.
 
-<Image src="https://i.imgur.com/496pa8b.png" alt="Pistol" width="150" label="Pistol" />
-<Image src="https://i.imgur.com/EdkzxtF.png" alt="Tazer" width="150" label="Tazer" />
-<Image src="https://i.imgur.com/rmx6CMm.png" alt="Radar" width="150" label="Radar" />
-<Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="150" label="Pușcă automată" />
+::: tip
+
+Shotgun-ul este disponibil incepand cu **rank 2**.
+
+Atasamentele pe toate armele sunt disponibile incepand cu **rank 3**.
+
+:::
+
+<Image src="https://i.imgur.com/496pa8b.png" alt="Pistol" width="100" label="Pistol" />
+<Image src="https://i.imgur.com/EdkzxtF.png" alt="Tazer" width="100" label="Tazer" />
+<Image src="https://i.imgur.com/rmx6CMm.png" alt="Radar" width="100" label="Radar" />
+<Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="100" label="Pușcă automată" />
+<Image src="https://i.imgur.com/gUHhZlR.png" alt="Shotgun" width="100" label="Shotgun" />
+
 
 **Pistolul radar** are scopul de a surprinde șoferii ce conduc fără licență sau cu viteză, iar **tazer-ul** de a imobiliza individul în cauză.
 ::: details Interfață radar  
@@ -56,30 +66,34 @@ Pentru a intra în incinta închisorii trebuie să folosești locker-ul, astfel 
 Pentru a porni girofarul, apasă tasta `E`.
 :::
 
-| Mașină        |      Tip      |  
-| :-------------: | :-----------: | 
-| Interceptor      | [**Police Car**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/PoliceCruiser3-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230216161148) | 
-| Buffalo      |   [**Police Buffalo**](https://static.wikia.nocookie.net/gtawiki/images/b/b1/PoliceCruiser2-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230216161144)    |   
-| Cruiser |  [**Police Cruiser**](https://static.wikia.nocookie.net/gtawiki/images/b/bd/PoliceCruiser-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160311203102)    |   
+| Vehicule      |      Tip      |  
+| :-------------: | :-----------: |  
+| Buffalo      |   [**Police Buffalo**](https://i.imgur.com/Edcz0Dy.png)    |   
+| Mercedes-Benz AMG GT R |  [**Police Mercedes-Benz AMG GT R**](https://i.imgur.com/qg2DlPO.png)    |   
 | Maverick | [**Police Maverick**](https://static.wikia.nocookie.net/gtawiki/images/5/50/PoliceMaverick-GTAV-front.png/revision/latest?cb=20161111195820) |
 | Predator | [**Police Predator**](https://static.wikia.nocookie.net/gtawiki/images/c/cb/PolicePredator-GTAV-front.png/revision/latest?cb=20180529134458) |
 
-- Locatie cars
+::: details Locatie cars
 
 <Image src="http://i.imgur.com/4hXKdCp.png" alt="Spawn Cars" />
 <Image src="http://i.imgur.com/TYya4bR.png" alt="Spawn Cars" />
 <Image src="http://i.imgur.com/Hw3qEDQ.png" alt="Spawn Cars" />
 
-- Locatie airplanes
+:::
+
+::: details Locatie airplanes
 
 <Image src="http://i.imgur.com/Prkli0P.png" alt="Spawn Airplanes" />
 <Image src="http://i.imgur.com/tRzTaLR.png" alt="Spawn Airplanes" />
 
-- Locatie boat
+:::
+
+::: details Locatie boat
 
 <Image src="http://i.imgur.com/x8USkKC.png" alt="Spawn Boat" />
 <Image src="http://i.imgur.com/3ym7zgv.png" alt="Spawn Boat" />
 
+:::
 
 ## Wanted
 Oamenii care sunt urmăriți de poliție au un anumit grad de gravitate raportat la **crima** sau *ilegalitatea* lor. Acesta prezintă două tipuri, mai exact infractori cu **drept de predare** și infractori **fără drept de predare**. Mai multe informații în detaliu despre acestea sunt [**aici**](https://ucp.liberty.mp/forums/post/33).

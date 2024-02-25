@@ -17,7 +17,7 @@ Pentru a verifica câte <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino
 
 
 ### Locația cazinoului
-Casino-ul este afișat cu <Image src="https://i.imgur.com/L1ULg07.png" alt="Casino-Icon" width="16"/> pe mapă, în aplicația [Taxi](../general/phone#taxi) îl puteți găsi sub numele **Diamond Casino & Resort** și este situat în această locație:
+Casino-ul este afișat cu <Image src="https://i.imgur.com/L1ULg07.png" alt="Casino-Icon" width="16"/> pe mapă, în aplicația [Taxi](../general/phone/applications/taxi.md) îl puteți găsi sub numele **Diamond Casino & Resort** și este situat în această locație:
 <Image src="https://i.imgur.com/uSZIF9w.png" alt="Locatie-Casino" />.
 
 ### Masa de poker
@@ -41,7 +41,7 @@ Valoarea unui <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" wi
 
 |       Cumpărare          |          Vindere           |
 | :----------------------: | :------------------------: |
-|  <Dinero :amount="1" />  | <Dinero :amount="0.95" />  |
+|  <Dinero :amount="1" />  | <Dinero :amount="0.90" />  |
 
 Pentru a cumpăra sau vinde token-uri, apăsați tasta `E` când sunteți în fața casierului, apoi selectați `BUY TOKENS` sau `SELL TOKENS` în funcție de ce doriți și selectați `✔️ SELECT`, în următoarea pagină introduceți  suma, iar apoi selectați `SUMBIT`.
 

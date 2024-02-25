@@ -14,7 +14,7 @@ Acces de a-ți pune numele colorat prestabilit în chat.
 
 ### Gold plated distinction above your in game character
 
-Deasupra capului fiecărui jucător cu <PremiumSubscription type='gold' /> apare o iconiță distinctivă.
+Deasupra capului fiecărui jucător <PremiumSubscription type='gold' /> apare o iconiță distinctivă.
 
 <Image src="https://i.imgur.com/T15bEAD.png" />
 
@@ -38,11 +38,11 @@ Acces la chat premium (/pc).
 
 ### 10% more Street Rep gained every robbery
 
-După savrasirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multe Street Points.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multe Street Points.
 
 ### 10% extra cash every robbery
 
-După savrasirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multi Marked Money.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai mulți Marked Money.
 
 ### 15% faster heat reduction
 
@@ -50,15 +50,15 @@ Heat Level scade cu **15%** mai repede.
 
 ###  5 car spawn slots
 
-Posibilitatea de a spwana **5** mașini personale.
+Posibilitatea de a spawna **5** mașini personale.
 
 ### Seatbelt always on
 
-**Centrua de siguranță** se pune automat în urarea într-un vehicul.
+**Centura de siguranță** se pune automat în urcarea într-un vehicul.
 
 ### Flat experience each payday increased by 50%
 
-Experiența primită la payday este majorata cu **50%**.
+Experiența primită la payday este majorată cu **50%**.
 
 ### Flat cash reward each payday increased by 30%
 
@@ -66,29 +66,29 @@ Primești cu **30%** mai mulți bani la payday.
 
 ### Profile distinction on our web platform
 
-Pe profilul de pe [site-ul serverului](https://ucp.liberty.mp/) primesti un badge.
+Pe profilul de pe [site-ul serverului](https://ucp.liberty.mp/) primești un badge.
 
 <Image src="https://i.imgur.com/lSYQVD9.png" />
 
 ### Phone customisation
 
-Posibilitatea de a-ți modifica aspectul telefonul.
+Posibilitatea de a-ți modifica aspectul telefonului.
 
 <Image src="https://i.imgur.com/QzjWRW3.png" />
 
 ### 50 phone contacts
 
-Posibilitatea de a avea **50** de numere salvate în agenda..
+Posibilitatea de a avea **50** de numere salvate în agendă.
 
 ### Premium advertisements
 
-Acces la anunturi premium. 
+Acces la anunțuri premium. 
 
 <Image src="https://i.imgur.com/AyQFMkU.png" />
 
 ###  Place ad from any location (/ad)
 
-Acces la anunturi din orice locatie.
+Acces la anunțuri din orice locație.
 
 ###  10 property safebox slots
 
@@ -98,7 +98,7 @@ Acces la **10** de locuri în seiful proprietăților.
 
 ###  5 market slots
 
-Acces la **5** de locuri în market.
+Acces la **5** locuri în market.
 
 <Image src="https://i.imgur.com/Kwtahpt.png" />
 
@@ -116,14 +116,23 @@ Consumarea combustibilului din mașină este micșorat cu **15%**.
 
 ### 5 minutes vehicle despawn time
 
-Vehiculul personal se despawneaza automat după **5 minute** de când nu mai este utilizat.
+Vehiculul personal se despawnează automat după **5 minute** de când nu mai este utilizat.
 
 ### 0.02% bank interest
 
-Dobândă la banca este **0.02%**. Aceasta se aplică doar până la suma de <Dinero :amount="2_000_000" />.
+Dobânda la bancă este **0.02%**. Aceasta se aplică doar până la suma de <Dinero :amount="2_000_000" />.
 
 ::: tip 
 
-Dobândă se calculează astfel: (banii din bancă) x 0.02.
+Dobânda se calculează astfel: (banii din bancă) x 0.0002.
 
 :::
+
+### 45% more battlepass playtime experience
+
+Experiența primită la **Liberty Pass** într-un payday este marită cu **45%**.
+
+### 25% more job drops
+
+Drop-ul in cadrul **Joburilor** este mărit cu **25%**.
+

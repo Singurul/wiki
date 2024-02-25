@@ -16,7 +16,7 @@ Marketplace-ul este deblocat începând cu nivel 5.
 
 ### Unde se află marketplace-ul?
 
-Localizarea marketplace-ului se poate face prin deschiderea aplicației [**Maps**](https://wiki.liberty.mp/general/phone#maps) de pe telefon, selectând categoria **Businesses**, unde veți găsi opțiunea **News Agency**.
+Localizarea marketplace-ului se poate face prin deschiderea aplicației [**Maps**](./phone/applications/maps.md) de pe telefon, selectând categoria **Businesses**, unde veți găsi opțiunea **News Agency**.
 
 ### Cum pot interacționa cu marketplace-ul?
 
@@ -26,7 +26,7 @@ Interacționarea cu marketplace-ul se face prin apăsarea tastei `G` pentru desc
 
 ### Items List
 
-În această categorie sunt afișate bunurile listate de către jucatori, puteți vedea informații precum:
+În această categorie sunt afișate bunurile listate de către jucători, puteți vedea informații precum:
   - Numele bunului
   - Prețul bunului 
   - Timpul de listare al bunului

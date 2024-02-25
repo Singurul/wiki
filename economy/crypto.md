@@ -10,7 +10,7 @@ title: Cryptomonede
 
 **Vânzarea și cumpărarea de cryptomonede este deblocată începând cu nivel 5.**
 
- Aceste cryptomonede se pot accesa folosind telefonul prin intermediul aplicației Bank. Acestea fiind actualizate în timp real cu valorile din viața reală. Mai multe informații despre telefon aveți [aici](../general/phone.md).
+ Aceste cryptomonede se pot accesa folosind telefonul prin intermediul aplicației Bank. Acestea fiind actualizate în timp real cu valorile din viața reală. Mai multe informații despre telefon aveți [aici](../general/phone/applications/bank#cryptomonede).
 
  Din acest meniu putem interacționa cu cryptomoneda pe care dorim să o cumpărăm.
 
@@ -21,6 +21,10 @@ title: Cryptomonede
    <Image src="https://i.imgur.com/dm8cs5n.png" alt="buycrypto" />
 
   Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de **cryptomonede** căutați numele acestuia în bara `Search user`. După ce ați selectat persoana căreia doriți să îi trimiteți **cryptomonedele** trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
+
+::: danger Atenție!  
+Taxa la vânzarea **cryptomonedelor** este de **5%**.
+:::
 
   ## La ce putem folosi cryptomonedele?
 
