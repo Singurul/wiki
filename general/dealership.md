@@ -1,14 +1,17 @@
 ---
-title: Vehicule Personale
+title: Dealership
 ---
 
 ### Informații generale despre vehicule personale
 
-**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui magazin: **Dealership**. 
+Pe server există cinci Dealership-uri diferite, cu vehicule originale ale jocului Grand Theft Auto V (Cars Default, Motorcycles Default, Boats Default și Airplanes Default) și unul cu vehicule din viața reală (Luxury Autos).
+
+##
 
 ## Achiziția unui vehicul personal
 
-
+::: Lista Vehicule
+::: 
 | Vehicul | Nume joc | Nume real | Preț| 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | <Color hex="#a6cc70">$18,000</Color> |
