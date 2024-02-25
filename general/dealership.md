@@ -7,7 +7,7 @@ title: Luxury Autos
 Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta E în fața NPC-ului.
 
 ::: warning Atenție!
-Pe langa suma de bani respectiva, jucatorii vor fi nevoiti sa detina si un [**Luxury Vehicle Ticket**](https://ucp.liberty.mp/shop/products) <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" alt="Luxury Vehicle Ticket" />
+Pentru a achiziționa un vehicul, pe langa suma de bani respectiva, jucatorii vor fi nevoiti sa detina si un [**Luxury Vehicle Ticket**](https://ucp.liberty.mp/shop/products) <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" alt="Luxury Vehicle Ticket" />
 ::: 
 
 ::: details Lista Vehicule:  
