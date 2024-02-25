@@ -1,14 +1,14 @@
 ---
-title: Dealership
+title: Luxury Autos 
 ---
 
-### Informații generale despre vehicule personale
+### Luxury Autos <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" alt="Luxury Autos" />
 
-Pe server există cinci Dealership-uri diferite, cu vehicule originale ale jocului Grand Theft Auto V (Cars Default, Motorcycles Default, Boats Default și Airplanes Default) și unul cu vehicule din viața reală (Luxury Autos).
+Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta E în fața NPC-ului.
 
-##
-
-## Achiziția unui vehicul personal
+::: warning Atenție!
+Pe langa suma de bani respectiva, jucatorii vor fi nevoiti sa detina si un Luxury Vehicle Ticket <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" alt="Luxury Vehicle Ticket" />
+::: 
 
 ::: details Lista Vehicule:  
 | Vehicul | Nume joc | Nume real | Preț | 
