@@ -13,8 +13,8 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 | Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) | 
-| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Pillbox Hill**](https://i.imgur.com/Q5wQoER.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" img align="center" label="Luxury Vehicle Ticket"/> | 
+| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) |
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
 | <Image src="https://i.imgur.com/WBJe08I.png" alt="Dealership" width="30" label="Dealership Blip" /> | Airplanes Default | 3 | [**Los Santos International Airport**](https://i.imgur.com/b5D4nND.png) | Bani in joc ($)<br> sau <br> Gold |
 | <Image src="https://i.imgur.com/Oer7ECJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boats Default | 3 | [**La Puerta**](https://i.imgur.com/JbkGkvk.png) | Bani in joc ($)<br> sau <br> Gold |
 
@@ -123,7 +123,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/OuaUyH1.png" alt="Truffade Centaur" /> | Truffade Centaur | Bugatti Chiron [2017] | <Dinero :amount='3200000' /> |
 | <Image src="https://imgur.com/7pRa68O.png" alt="Benefactor One" /> | Benefactor One | Mercedes-AMG ONE [2022] | <Dinero :amount='3500000' /> |
 | <Image src="https://imgur.com/49ByCFQ.png" alt="Truffade Pasko" /> | Truffade Pasko | Koenigsegg Jesko [2020] | <Dinero :amount='4000000' /> |
-| <Image src="https://imgur.com/tK76Mho.png" alt="Turffade Devil" /> | Turffade Devil | Bugatti Divo [2020] | <Dinero :amount='4350000' /> |
+| <Image src="https://imgur.com/tK76Mho.png" alt="Truffade Devil" /> | Truffade Devil | Bugatti Divo [2020] | <Dinero :amount='4350000' /> |
 
 Special thanks to SFN.
 :::
