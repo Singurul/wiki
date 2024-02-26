@@ -34,7 +34,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
  <Image src="https://imgur.com/a/L10ADJx.gif" alt="Achiziționare vehicul" />
 :::
 
-::: details Lista Vehicule:  
+::: details Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Preț | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | <Dinero :amount='18000' /> |
