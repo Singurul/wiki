@@ -30,8 +30,8 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
  <Image src="https://imgur.com/a/0sr1Ypc.gif" alt="Test Drive" />
 :::
 
-::: details Buy vehicle
- <Image src="https://imgur.com/a/L10ADJx.gif" alt="Test Drive" />
+::: details Achizitionare vehicul
+ <Image src="https://imgur.com/a/L10ADJx.gif" alt="Achizitionare vehicul" />
 :::
 
 ::: details Lista Vehicule:  
