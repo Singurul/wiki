@@ -42,7 +42,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/XEqyY1e.png" alt="BMW M5 E30" /> | Übermacht E30 VER.5 | BMW M5 E30 [1986] | <Dinero :amount='65000' /> |
 | <Image src="https://imgur.com/h3Rsu3d.png" alt="Mini Cooper JCW" /> | Weeny Issi JCW | Mini Cooper JCW [2023] | <Dinero :amount='69789' /> |
 | <Image src="https://imgur.com/TiYXEI0.png" alt="Gold 7R" /> | Bürgerfahrzeug VER.7R | Golf 7R [2014] | <Dinero :amount='71000' /> |
-| <Image src="https://imgur.com/xBDuWBk.png" alt="BMW M3 E46" /> | Übermacht E46 VER.3 | BMW M3 E46 [2000] | <Dinero :amount='72000' /> |
+| <Image src="https://imgur.com/xBDuWBk.png" alt="BMW M3 E46" /> | Übermacht E46 VER.3 | BMW M3 E46 [2000] | ~223km/h | <Dinero :amount='72000' /> |
 | <Image src="https://imgur.com/vJYz8XW.png" alt="Dinka Integra" /> | Dinka Integra | Honda Integra Type R DC5 [2002] | <Dinero :amount='73000' /> |
 | <Image src="https://imgur.com/IRtatLc.png" alt="Annis Miata" /> | Annis Miata | Mazda MX-5 NA Miata [1989] | <Dinero :amount='74250' /> |
 | <Image src="https://imgur.com/YIfNRlm.png" alt="Vapid Focus Performance" /> | Vapid Focus Performance | Ford Focus RS [2016] | <Dinero :amount='84000' /> |
