@@ -38,9 +38,9 @@ Un Test Drive durează 120 de secunde.
 :::
 
 ::: details Listă Vehicule Luxury Autos:  
-| Vehicul | Nume joc | Nume real | Preț Dealership| 
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | <Dinero :amount='18000' /> |
+| Vehicul | Nume joc | Nume real | Viteză maximă: Performance | Preț Dealership| 
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | ~185km/h | <Dinero :amount='18000' /> |
 | <Image src="https://imgur.com/nbT0bvK.png" alt="Golf 5" /> | Bürgerfahrzeug GTI VER.5 | Golf 5 GTI [2004] | <Dinero :amount='19000' /> |
 | <Image src="https://imgur.com/XEqyY1e.png" alt="BMW M5 E30" /> | Übermacht E30 VER.5 | BMW M5 E30 [1986] | <Dinero :amount='65000' /> |
 | <Image src="https://imgur.com/TiYXEI0.png" alt="Gold 7R" /> | Bürgerfahrzeug VER.7R | Golf 7R [2014] | <Dinero :amount='71000' /> |
